@@ -1,2 +1,2 @@
 # python-rsa
-RSA Encryption Algorithm - Simple and Independent Implementation using python
+RSA Encryption Algorithm | simple and independent implementation using python
